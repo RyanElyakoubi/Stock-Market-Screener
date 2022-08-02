@@ -58,6 +58,10 @@ import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
+// Numpy implementation for greater accuracy
+
+
+
 
 class UnusualOptionMain extends JFrame
 {
