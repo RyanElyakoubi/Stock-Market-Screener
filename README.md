@@ -1,0 +1,2 @@
+# Stock-Market-Screener
+I have been working on this ever since freshmen year, 1000+ years put into this and it is definitely my biggest project. My scanner analyzes a multitude of financial models to configure the data on the market. My algorithm analyzes over 1000+ stocks daily, then categorizes them on their probability to succeed. The configured data (best acquisitions) then gets displayed on the GUI, telling the user when to enter and leave the acquisition to maximize returns. I plan to pursue this in college and hopefully pursue a FinTech venture !
